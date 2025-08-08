@@ -1,3 +1,8 @@
+# Headphones Landing Page
+
+This project is part of the ALX Front-End curriculum.
+It replicates the Headphones design using HTML and CSS.
+
 # 🎧 Headphones Landing Page
 
 This project is a responsive landing page for a fictional headphones company. It was designed to replicate the provided Figma design with precision, using HTML and CSS, and adapts gracefully to mobile view.
